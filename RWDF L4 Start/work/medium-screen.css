@@ -1,0 +1,40 @@
+.header{
+    margin-bottom: 0.5em;
+}
+
+.header__logoandtitle{
+    width: 100%;
+
+}
+.header__logo{
+    height: 60px;
+    margin-top: 1em;
+
+}
+.header__title {
+    font-weight: 300;
+    font-size: 2.5em;
+    margin: 1.2em 0 1em 0;
+    font-weight: 300;
+}
+
+.header__menu {
+    display: none;
+}
+
+.nav {
+    display: block;
+}
+
+.hero {
+    order: -2;
+    width: 55%;
+}
+.top-news {
+    height: 250px;
+}
+
+.weather {
+    order: -1;
+    width: 45%;
+}
